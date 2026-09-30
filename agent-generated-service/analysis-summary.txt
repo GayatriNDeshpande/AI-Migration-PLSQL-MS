@@ -1,0 +1,1 @@
+Analyzed 1 SQL files with 7 procedures and 2 functions.

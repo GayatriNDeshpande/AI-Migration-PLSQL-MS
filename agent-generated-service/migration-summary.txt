@@ -1,0 +1,1 @@
+Generating 21 files for OrderManagement microservice from order_management_pkg.sql. Rules loaded from migration_prompt.cleaned.md. Mappings: AUTONOMOUS_TRANSACTION -> REQUIRES_NEW, FOR UPDATE NOWAIT -> PESSIMISTIC_WRITE.
